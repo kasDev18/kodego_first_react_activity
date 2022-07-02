@@ -1,0 +1,15 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.card_container {
+    height: 180vh;
+    background: no-repeat url('../../public/images/Capture1.JPG');
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
+
+.carousel-inner img {
+    border: 4mm ridge rgba(300, 220, 50, .6);
+    border-radius: 50%;
+}
