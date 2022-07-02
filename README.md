@@ -1,1 +1,0 @@
-# kodego_first_react_activity
